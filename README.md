@@ -1,3 +1,16 @@
+## Cross-Validation
+
+If you find this repository useful in your research, please cite the following paper:
+
+```
+@inproceedings{iyengar2024cross,
+  title={Is Cross-Validation the Gold Standard to Estimate Out-of-sample Model Performance?},
+  author={Iyengar Garud and Henry Lam and Tianyu Wang},
+  booktitle={Thirty-eighth Conference on Neural Information Processing Systems},
+  year={2024}
+}
+```
+
 All Python code was tested with Python 3.6.10. The scripts were run on a Mac-OS operating system.
 
 To reproduce our Python environment, you can use the .txt file we provide by running:
